@@ -13,7 +13,7 @@ cvičení
 
             background-color: #f4f4f9;
 
-            /* DOPLŇ ZDE (1): Nastav flexbox tak, aby se karta zarovnala přesně na střed obrazovky */
+         
 
             display: flex;
 
@@ -33,7 +33,7 @@ cvičení
 
             padding: 30px;
 
-            /* DOPLŇ ZDE (2): Přidej zaoblení rohů karty na 10 pixelů */
+            
 
             border-radius:  1;
 
@@ -75,7 +75,7 @@ cvičení
 
             border-radius: 5px;
 
-            /* DOPLŇ ZDE (3): Aby tlačítko (odkaz) bralo padding a rozměry, jaký display model musí mít? */
+           
 
             display: 1;
 
@@ -93,7 +93,7 @@ cvičení
     <div class="card">
 <h1>Jan Novák</h1>
 <p>Webový vývojář</p>
-<!-- DOPLŇ ZDE (4): Doplň do atributu href správný odkaz pro odeslání e-mailu na jan@example.com -->
+
 <a href="mail" class="kontakt">Napsat e-mail</a>
 </div>
  
